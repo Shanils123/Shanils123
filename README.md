@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanils123&label=Profile%20views&color=0e75b6&style=flat" alt="shanils123" /> </p>
 
+- 🌱 I’m currently learning **React, Blender(3d Modeling)**
+
 - 📫 How to reach me **Shanils857@gmail.com**
+
+- ⚡ Fun fact **I'm very driven and passionate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
